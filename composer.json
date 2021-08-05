@@ -1,0 +1,21 @@
+{
+    "name": "danialrahimy/router",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "danial rahimy",
+            "email": "developer@danialrahimy.ir",
+            "homepage": "https://danialrahimy.ir"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": "^7.4|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DanialRahimy\\Config\\": "src/"
+        }
+    }
+}
