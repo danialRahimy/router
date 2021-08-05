@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "DanialRahimy\\Config\\": "src/"
+            "DanialRahimy\\Router\\": "src/"
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php
 
-namespace AutoPublishNews\Vendor;
+namespace DanialRahimy\Router;
 
 class Route
 {
